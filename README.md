@@ -99,8 +99,8 @@ Healthcare_QA_Project/
 
 <br>
 
-![MediAssist AI UI](AnswerTab.png)
-![MediAssist AI UI](SidebarPic.png)
+![MediAssist AI UI](screenshots/AnswerTab.png)
+![MediAssist AI UI](screenshots/SidebarPic.png)
 
 <br>
 
