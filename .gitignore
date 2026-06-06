@@ -1,0 +1,14 @@
+# Virtual Environment
+venv/
+
+# Chroma Database
+chroma_db/
+
+# Environment Variables
+.env
+
+# Python Cache
+__pycache__/
+
+# PyCharm Settings
+.idea/
